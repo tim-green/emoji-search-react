@@ -1,0 +1,15 @@
+.component-header {
+  padding: 1.2rem .6rem;
+  position: relative;
+  font-weight: bold;
+  font-family: "proxima-nova",sans-serif;
+  font-size: 1.8rem;
+  text-align: center;
+  color: #333;
+}
+
+.component-header img {
+  position: relative;
+  top: 6px;
+  padding: 0 14px;
+}
