@@ -1,11 +1,11 @@
-##Emoji Search react
+Emoji Search react
 ---
 
 Simple emoji search built with react
 
 
 
-##Install
+#Install
 ---
 
 `npm install`
