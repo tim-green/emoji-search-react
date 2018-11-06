@@ -5,7 +5,7 @@ Simple emoji search built with react
 
 
 
-#Install
+Install
 ---
 
 `npm install`
